@@ -54,3 +54,5 @@ To run the Diabetes Prediction Desktop Application, you need to have the followi
 2. Prepare the Dataset: The application requires a properly formatted CSV file dataset with the necessary attributes and labels (0 for no diabetes, 1 for diabetes). Ensure that the dataset is ready for training and testing the logistic regression model.
 4. Run the Application: Run the application's `main.py` script to train the logistic regression model on the provided dataset and launch the graphical user interface (GUI) where users can input their information and receive diabetes predictions based on the trained model.
 5. Interact with the Application: Input the patient's information, such as age, BMI, blood pressure, and glucose levels, through the GUI. After entering the information, click on the "Predict" button to obtain the diabetes prediction result. The application will display the prediction outcome on the GUI.
+
+6
